@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binoddey
 - 👀 I’m interested in TECH, AI, ML, Data Science and Programming
 - 🌱 I’m currently learning C, C++, Python and DSA
-- 📫 How to reach me: Connect with me on LinkedIn or email at mail.binoddey@gmail.com
+- 📫 How to reach me: Connect with me on LinkedIn
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am a beginner!!
 
