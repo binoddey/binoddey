@@ -1,26 +1,63 @@
-👋 Hi, I'm Binod
+# 👋 Hi, I'm Binod
 
-🚀 About Me
-- BTech CSE student
-- Founder of Note Nexus (EdTech initiative)
-- Interested in Software Engineering, AI & Systems
+🎓 **B.Tech CSE Student** | 🚀 **Co Founder – Note Nexus** | 💻 **Aspiring Software Engineer**
 
-🧠 Tech Stack
-- Languages: C++, Python
-- Web: HTML, CSS, JavaScript
-- CS Core: DSA, OOPS, OS, CN
-- Tools: Git, GitHub, VS Code
+I’m a computer science student focused on building **strong engineering fundamentals**, shipping **real-world projects**, and scaling ideas at the intersection of **technology and education**.
 
-📌 Featured Work
-- Note Nexus (concept → execution)
-- DSA practice repository
-- Web development projects
+---
 
-📈 Current Focus
-- Strengthening DSA & core CS
-- Building real-world projects
-- Preparing for internships
+## 🚀 About Me
 
-📫 Connect
-- LinkedIn: https://www.linkedin.com/in/binoddeyofficial
-- Portfolio: https://binoddey.netlify.app
+- 🎓 B.Tech in Computer Science & Engineering  
+- 🧠 Founder of **Note Nexus** — an EdTech initiative for student-first learning  
+- 🔍 Deep interest in **Software Engineering, AI, and System Design**  
+- ⚙️ Believer in learning by **building, breaking, and improving**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+- **C++**, **Python**, **JavaScript**
+
+### 🌐 Web Development
+- **HTML**, **CSS**, **JavaScript**
+
+### 📚 Core CS Fundamentals
+- **Data Structures & Algorithms**
+- **Object-Oriented Programming (OOPS)**
+- **Operating Systems**
+- **Computer Networks**
+
+### 🛠️ Tools & Platforms
+- **Git**, **GitHub**
+- **VS Code**
+
+---
+
+## 📌 Featured Work
+
+- 🚀 **Note Nexus** — from concept to execution (EdTech platform)  
+- 📊 **DSA Practice Repository** — structured problem-solving & algorithms  
+- 🌐 **Web Development Projects** — clean UI, functional logic, scalable code  
+
+> Focused on clarity, fundamentals, and real implementation.
+
+---
+
+## 📈 Current Focus
+
+- Strengthening **DSA & core CS concepts**
+- Building **impact-driven, real-world projects**
+- Preparing for **internships and software roles**
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [binoddeyofficial](https://www.linkedin.com/in/binoddeyofficial)  
+- 🌐 **Portfolio:** [binoddey.netlify.app](https://binoddey.netlify.app)
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
