@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Binod
 
-🎓 **B.Tech CSE Student** | 🚀 **Co Founder – Note Nexus** | 💻 **Aspiring AI Engineer**
+🎓 **B.Tech CSE '28 Student** | 🚀 **Co Founder – Note Nexus** | 💻 **Aspiring AI Engineer**
 
 I’m a computer science student focused on building **strong engineering fundamentals**, shipping **real-world projects**, and scaling ideas at the intersection of **technology and education**.
 
