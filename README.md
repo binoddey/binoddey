@@ -48,6 +48,7 @@ I’m a computer science student focused on building **strong engineering fundam
 ## 📈 Current Focus
 
 - Strengthening **DSA & core CS concepts**
+- Learning **AI, ML, and Data**
 - Building **impact-driven, real-world projects**
 - Preparing for **internships and software roles**
 
